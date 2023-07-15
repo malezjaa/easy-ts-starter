@@ -19,7 +19,8 @@
         "types",
         "build",
         "ci",
-        "typings"
+        "typings",
+        "init"
       ]
     ],
     "scope-case": [
